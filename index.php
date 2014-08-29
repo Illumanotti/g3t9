@@ -208,14 +208,14 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your PHP application on OpenShift</h1>
+            <h1>SUP BITCHES</h1>
           </hgroup>
 
 
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>Deploying code changes</h2>
+              <h2>SUP BITCHES</h2>
                 <p>OpenShift uses the <a href="http://git-scm.com/">Git version control system</a> for your source code, and grants you access to it via the Secure Shell (SSH) protocol. In order to upload and download code to your application you need to give us your <a href="https://www.openshift.com/developers/remote-access">public SSH key</a>. You can upload it within the web console or install the <a href="https://www.openshift.com/developers/rhc-client-tools-install">RHC command line tool</a> and run <code>rhc setup</code> to generate and upload your key automatically.</p>
 
                 <h3>Working in your local Git repository</h3>
